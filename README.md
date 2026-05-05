@@ -44,12 +44,5 @@ npm install
 npm start
 ```
 
----
-
-## 📸 Screenshots
-(Add your Postman screenshots here)
-
----
-
 ## 👨‍💻 Author
 Prince
